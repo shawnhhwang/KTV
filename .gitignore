@@ -1,0 +1,21 @@
+# .NET Build output
+[Bb]in/
+[Oo]bj/
+
+# User settings
+.vs/
+.idea/
+*.user
+*.suo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+[Ll]ogs/
+*.log
+
+# Database files
+*.sqlite
+*.db
